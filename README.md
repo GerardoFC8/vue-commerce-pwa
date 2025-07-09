@@ -15,14 +15,12 @@ Vue-Commerce PWA is a modern, fast, and functional e-commerce project built with
 - **Update Notification:** Notifies the user when a new version is available.
 - **Category Filtering:** Loads categories from the API and allows dynamic product filtering.
 - **Centralized State Management:** Uses Pinia for simple and powerful state management of the shopping cart and products.
-- **Asynchronous Loading (Suspense):** Uses the Vue 3 `<Suspense>` component for a better user experience while data is loading.
 
 ---
 
 ## 🛠️ Technologies Used
 
 - **Framework:** [Vue.js 3](https://vuejs.org/)
-- **Build Tool:** [Vite](https://vitejs.dev/)
 - **Routing:** [Vue Router](https://router.vuejs.org/)
 - **State Management:** [Pinia](https://pinia.vuejs.org/)
 - **CSS Styles:** [Tailwind CSS](https://tailwindcss.com/)
@@ -31,9 +29,7 @@ Vue-Commerce PWA is a modern, fast, and functional e-commerce project built with
 
 ---
 
-## 🚀 Installation and Startup Local
-
-Follow these steps to run the project on your local machine.
+## 🚀 Installation
 
 #### 1. Clone the repository
 
