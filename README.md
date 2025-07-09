@@ -2,7 +2,7 @@
 
 Vue-Commerce PWA is a modern, fast, and functional e-commerce project built with Vue.js 3 and Vite. The main feature of this application is its Progressive Web App (PWA) architecture, which allows it to be installable, work offline, and offer a user experience similar to that of a native app.
 
-[Vue-Commerce Store Image](https://placehold.co/800x450/3b82f6/ffffff?text=Vue-Commerce+PWA)
+![Vue-Commerce Store Image](https://raw.githubusercontent.com/GerardoFC8/vue-commerce-pwa/refs/heads/main/src/assets/ss.png)
 
 ---
 
