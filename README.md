@@ -1,4 +1,4 @@
-#Vue-Commerce PWA 🛍️
+# Vue-Commerce PWA 🛍️
 
 Vue-Commerce PWA is a modern, fast, and functional e-commerce project built with Vue.js 3 and Vite. The main feature of this application is its Progressive Web App (PWA) architecture, which allows it to be installable, work offline, and offer a user experience similar to that of a native app.
 
@@ -38,7 +38,7 @@ Follow these steps to run the project on your local machine.
 #### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/GerardoFC8/vue-commerce-pwa.git](https://github.com/GerardoFC8/vue-commerce-pwa.git)
+git clone https://github.com/GerardoFC8/vue-commerce-pwa.git
 ```
 
 #### 2. Navigate to the project directory
